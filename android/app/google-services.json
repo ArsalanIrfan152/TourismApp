@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698611507052",
+    "project_id": "saudi-tourism-app",
+    "storage_bucket": "saudi-tourism-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698611507052:android:4e33e4d34633b09bb29d49",
+        "android_client_info": {
+          "package_name": "com.example.tourismapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtAslY3OzJkpFL4LxdGQNvpkHz3OZvr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
