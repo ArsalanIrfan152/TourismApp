@@ -1,4 +1,4 @@
-# tourismapp
+# Tourism App
 
 A new Flutter project.
 
